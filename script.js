@@ -45,20 +45,6 @@ répéterChaine("dog", 3);
 
 //ex4
 
-function sommeMinÀMax(minimum, maximum){
-    
-    var s=0;
-    while(maximum<=maximum ){
-        s= s+minimum;
-        minimum++;
-        
-    }
-    return s;
-}
-sommeMinÀMax(1, 5);
-sommeMinÀMax(3, 7);
-
-
 
 function sommeMinÀMax(minimum, maximum){
     
